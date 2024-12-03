@@ -33,3 +33,7 @@ Memungkinkan pengguna untuk keluar dari program dengan memilih opsi "5".
 Flowchart:
 
 ![image](https://github.com/user-attachments/assets/efff4849-755e-4694-b717-2f1d784f1c06)
+
+Hasil running program:
+
+
