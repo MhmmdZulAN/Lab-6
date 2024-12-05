@@ -36,4 +36,9 @@ Flowchart:
 
 Hasil running program:
 
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/d33f2421-04d7-485c-a85d-9a860de6d70d">
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/9f22c1de-9bac-47ea-bbdf-bc7766a9dbae">
+
+
 
